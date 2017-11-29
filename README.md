@@ -14,11 +14,13 @@ Assignment 3:
  * hospital2.py is an updated version of the simulation
  * statplot.py will produce stats and plots
  * hospital2.py can be run like::
-
+    ```
     pipenv run python hospital2.py tasks1n2
     pipenv run python hospital2.py task3
     pipenv run python hospital2.py task4
+    ```
 
   * statplot.py can be run like::
-
+    ```
     pipenv run python statplot.py task3.dat task3.png
+    ```
