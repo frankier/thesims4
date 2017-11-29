@@ -1,7 +1,7 @@
 Requires Python 3 and some dependencies. If you use
 [pipenv](https://github.com/kennethreitz/pipenv) you can install them using
 
-  $ pipenv install
+    $ pipenv install
 
 Assignment 2:
 
